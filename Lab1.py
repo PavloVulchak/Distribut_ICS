@@ -6,7 +6,7 @@ def Factorial(n):
         ft = ft * i
     return ft
 
-print("Hello World!")
+print("HELLo World!")
 Name = input("Please, enter your name: ")
 print("Hello, " + Name + "!")
 Lenght = len(Name)
